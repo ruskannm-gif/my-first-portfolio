@@ -1,0 +1,5 @@
+1) Install Node.js (v18+)
+2) In this folder run:  npm install
+3) Preview:             npm run dev      (opens on http://localhost:8080)
+4) Final build:         npm run build    (output goes to dist/ - upload dist/ to Netlify / Vercel / GitHub Pages)
+Photo: public/ruskan-avatar.jpg    CV: public/Ruskan_CV.pdf
